@@ -1,3 +1,5 @@
-# Website on about my city- KOLKATA
+# Website designed on "About my city- KOLKATA"
 
-## HTML, CSS, BOOTSTRAP is used to build this up.
+## HTML
+## CSS
+## BOOTSTRAP
